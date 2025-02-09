@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, EveryOne 
 
-<!--
-**Veeru-8151/Veeru-8151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript
+- Python
+- HTML/CSS
+- Git
+- JAva(Maveb Spring Boot)
+- MySQL
+- MongoDB
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+- Project 1: Description
+- Project 2: Description
+
+## Connect with Me
+- [LinkedIn](#)
+- [Twitter](#)
