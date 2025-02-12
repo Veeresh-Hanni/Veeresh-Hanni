@@ -18,5 +18,4 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - Project 2: Description
 
 ## Connect with Me
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn]((https://www.linkedin.com/in/veeresh-hanni-9775ba33b?))
