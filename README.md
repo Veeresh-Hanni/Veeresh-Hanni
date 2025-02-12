@@ -1,4 +1,4 @@
-# Hi, EveryOne 
+# Hi, Everyone 
 
 ## About Me
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.
@@ -8,7 +8,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - Python
 - HTML/CSS
 - Git
-- JAva(Maveb Spring Boot)
+- Java (Maven Spring Boot)
 - MySQL
 - MongoDB
 - Docker
@@ -18,4 +18,4 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - Project 2: Description
 
 ## Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/veeresh-hanni-9775ba33b?))
+- [LinkedIn](https://www.linkedin.com/in/veeresh-hanni-9775ba33b)
