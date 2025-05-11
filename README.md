@@ -5,7 +5,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Skills
 - JavaScript
-- Python
+- Python(Django)
 - HTML/CSS
 - Git
 - Java (Maven Spring Boot)
