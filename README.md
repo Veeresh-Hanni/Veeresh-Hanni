@@ -4,11 +4,14 @@
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.
 
 ## Skills  
+- Python (Django, Flask) 
+- Java (Maven)
 - JavaScript  
-- Python (Django)  
-- HTML / CSS  
-- Git  
-- Java (Maven, Spring Boot)  
+- HTML / CSS
+- ReactJS 
+- Git
+- GitHUb
+- SQL
 - MySQL  
 - MongoDB  
 - Docker  
