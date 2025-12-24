@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi Everyone! 👋<br><br>## About Me  <br>I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.<br><br>## Skills  <br>- 
+# Hi Everyone! 👋<br><br> ## About Me  <br>I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.<br><br>
 
 
 ## 🌐 Socials:
