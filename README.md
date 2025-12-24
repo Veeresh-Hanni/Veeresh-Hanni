@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi Everyone! 👋<br> <br>I'm a passionate developer with a love for coding and problem-solving. I enjoy working on open-source projects and contributing to the tech community.<br>
 
 
